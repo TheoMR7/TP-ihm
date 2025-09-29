@@ -63,3 +63,14 @@ Le texte est clair (“View product”, “Access the shop”) et l’apparence 
 
 Les points à ajuster dépendront des retours qu’on me fera.  
 Mon but est de rendre Tearoom le plus simple et intuitif possible, tout en restant agréable à utiliser.
+
+## Captures Figma
+
+![alt text](rendufinal.png)
+![alt text](frontfigma.png)
+![alt text](composent.png)
+![alt text](button.png)
+![alt text](organisation.png)
+![alt text](transition.png)
+
+Lien de mon travail https://www.figma.com/design/299uWY02y22lggfGEvj9v5/Tearoom--v1-?node-id=0-1&p=f&t=a83b1CZGhoJ6yjTq-0
